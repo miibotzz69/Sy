@@ -1,0 +1,25 @@
+{
+  "name": "snuff-z75",
+  "version": "1.0.0",
+  "description": "Welcome To Trava Telegram Create By Mr.222 Xpl01T",
+  "main": "index_its.js",
+  "scripts": {
+    "start": "node index_its.js"
+  },
+  "author": "REYHAN6610",
+  "license": "MIT",
+  "dependencies": {
+       "input": "^1.0.1",
+        "telegram": "^2.26.22",
+        "telegraf": "latest",
+        "express": "latest",
+        "node-fetch": "^3.3.2",
+        "crypto": "latest",
+        "axios": "^1.6.0",
+        "form-data": "^4.0.0",
+        "body-parser": "^1.20.3",
+        "fs": "latest",
+        "readline-sync": "^1.4.10"
+  }
+}
+
